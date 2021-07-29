@@ -5,3 +5,4 @@ pre_taxa_sim.csv
 /.ipynb_checkpoints/
 taxa_sim.h5
 pre_taxa_sim.h5
+sim.csv
